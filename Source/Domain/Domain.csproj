@@ -7,4 +7,12 @@
         <RootNamespace>Erdmier.JobTrack.Domain</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Ardalis.SmartEnum" Version="8.2.0" />
+      <PackageReference Include="Erdmier.DomainCore" Version="2.0.0" />
+      <PackageReference Include="Erdmier.DomainCore.Mediator" Version="1.0.1" />
+      <PackageReference Include="ErrorOr" Version="2.0.1" />
+      <PackageReference Include="Mediator.Abstractions" Version="3.0.1" />
+    </ItemGroup>
+
 </Project>
