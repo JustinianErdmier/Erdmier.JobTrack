@@ -1,8 +1,8 @@
 <Solution>
-  <Folder Name="/Source/">
-    <Project Path="Source/Application/Application.csproj" />
-    <Project Path="Source/Cli/Cli.csproj" />
-    <Project Path="Source/Domain/Domain.csproj" />
-    <Project Path="Source/Persistence/Persistence.csproj" />
-  </Folder>
+    <Folder Name="/Source/">
+        <Project Path="Source/Application/Application.csproj" />
+        <Project Path="Source/Cli/Cli.csproj" />
+        <Project Path="Source/Domain/Domain.csproj" />
+        <Project Path="Source/Persistence/Persistence.csproj" />
+    </Folder>
 </Solution>
